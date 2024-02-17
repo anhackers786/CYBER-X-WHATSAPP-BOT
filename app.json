@@ -17,17 +17,17 @@
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
+            "description": "4453d461-119f-4882-ba35-26969528a6da",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "cyberxbyawais",
             "required": true,
             "value": ""
         },
         "WORK_TYPE": {
-            "description": "Add the worktype of the Bot ( private , public , only_group )",
+            "description": "Cyber-X WhatsApp Bot By AN Hacker's( private , public , only_group )",
             "required": true,
             "value": "private"
         }
